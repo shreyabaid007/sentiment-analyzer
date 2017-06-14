@@ -3,10 +3,10 @@ import tweepy
 from tweepy import OAuthHandler
 from textblob import TextBlob
 
-consumer_key = 'ZVhFWqmSGBeQYIdLbYNNou0NF'
-consumer_secret = '0VEznDZ5FjBIJxw4zYftsYzclDGrzmnAr6r6oL3VcSmVAqx4tm'
-access_token = '841360189450153984-Lwqr3ATaPiBGzgkwKXhktOE5qX4P5OA'
-access_token_secret = 'RtfUmEXTrXC55UldqHuW2i4e66ScgfBAV7vrbZyz5QLBu'
+consumer_key = XXX
+consumer_secret = XXX
+access_token = XXX
+access_token_secret = XXX
          
 auth = OAuthHandler(consumer_key, consumer_secret)
             
